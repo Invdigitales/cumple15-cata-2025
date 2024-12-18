@@ -12,7 +12,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #f1b58f;
+    background-color: #fed2b6;
     z-index: 9999;
   
   }
@@ -137,9 +137,9 @@
     }
   
     .corona{
-      width: 75%;
+      width: 70%;
       margin-left: 14%;
-      margin-top: -5%;
+      margin-top: -4%;
     }
      
  
@@ -169,13 +169,13 @@
     margin-top: 12%;
   }
   .lineasvg2{
-    margin-top: 30%;
+    margin-top: 34%;
   }
   .fiesta{
     text-align: center;
     font-size: 33px;
     color: #787878;
-    margin-top: 10%; 
+    margin-top: 2%; 
     margin: 20%;
     font-family: "Arsenal SC", sans-serif;
     font-weight: 400;
@@ -192,7 +192,7 @@
     text-align: center;
     font-family: "Allura", cursive;
          font-size: 30px;
-         color: #343333;
+         color: #888888;
          font-weight: 400;
          margin-top: 10%;
          
@@ -240,7 +240,7 @@
       text-align: center;
       font-family: "Allura", cursive;
            font-size: 30px;
-           color: #343333;
+           color: #888888;
            font-weight: 400;
            margin-top: 10%;
            
@@ -301,6 +301,54 @@
     }
     .flores2{
       width: 65%;
-      margin-left: 24%;
+      margin-left: 23%;
       margin-top: -28%;
     }
+    .flores3{
+      width: 70%;
+      margin-left: 18%;
+      margin-top: -5%;
+    }
+.boton4{
+  justify-content: center;
+}
+.boton3{
+  justify-content: center;
+}
+
+.carousel-inner img{
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 10%;
+}
+.carousel-innerdos img{
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 10%;
+}
+.espero{
+ 
+    text-align: center;
+    font-size: 33px;
+    color: #787878;
+    margin-top: 10%; 
+    margin: 20%;
+    font-family: "Arsenal SC", sans-serif;
+    font-weight: 400;
+  
+}
+.cata{
+  width: 45%;
+  margin-left: 29%;
+  margin-top: -20%;
+}
+.parrafoDe{
+  text-align: center;
+  font-size: 25px;
+  color: #787878;
+  margin-top: 10%; 
+  margin: 5%;
+  font-family: "Arsenal SC", sans-serif;
+  font-weight: 500;
+
+}
